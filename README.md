@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/static/v1?label=NEXTJS&message=13.0&color=000&logo=nextjs" />
   </a>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b77a9331-cb41-405d-b240-1cec658d8d0a/deploy-status)](https://app.netlify.com/sites/earnest-otter-60cdbe/deploys)
+
   <a href="https://github.com/themefisher/bigspring-light-nextjs/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/themefisher/bigspring-light-nextjs" alt="license"></a>
 
