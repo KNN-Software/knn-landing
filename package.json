@@ -1,9 +1,8 @@
 {
-  "name": "bigspring-light-nextjs",
-  "description": "a nextjs and tailwindcss SAAS starter template",
+  "name": "knn-landing",
+  "description": "knn landing website",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
