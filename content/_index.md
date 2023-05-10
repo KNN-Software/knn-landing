@@ -32,8 +32,8 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Data-driven, customer-centric IT solutions for success"
+    content: "At KNN Software, we pride ourselves on being a cutting-edge IT solutions provider, dedicated to delivering exceptional services to our clients. Our unique selling points set us apart from the competition and position us as a trusted partner in the industry. By embracing a data-driven, customer-oriented approach, we ensure that our solutions are tailored to the specific needs of each client, resulting in improved efficiency, productivity, and ultimately, business growth."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -43,17 +43,17 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images: 
+  - title: "Excel with agility and prompt project delivery."
+    content: "Time is of the essence in today's fast-paced business landscape. That's why we prioritize fast delivery in all our projects, ensuring that our clients can start reaping the benefits of our solutions as soon as possible. Our agile approach to project management allows us to deliver high-quality results within tight deadlines, without compromising on quality or customer satisfaction."
+    images:
       - "/images/service-slide-1.png"
     button:
       enable: true
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Dedicated team, unparalleled customer satisfaction"
+    content: "At KNN Software, our commitment to customer satisfaction is at the core of everything we do. We understand the importance of building long-term relationships with our clients and work diligently to exceed their expectations. Our dedicated team of professionals is always available to provide personalized support and address any concerns or queries, ensuring a seamless experience from start to finish."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -63,8 +63,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Maximize IT investment with value-for-money services"
+    content: "We understand that every business is unique, and so are their IT needs. That's why we offer a wide range of services and solutions that provide exceptional value for money. From comprehensive IT consulting and strategy to implementation and support, our team of experts ensures that our clients receive the best possible solutions at competitive prices."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
